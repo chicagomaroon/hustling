@@ -1,0 +1,37 @@
+{
+  "id": "7834236416",
+  "publishPath": "hustling/2019/",
+  "stagingUrl": "http://stage-projects.chicagomaroon.com/hustling/2019/",
+  "url": "https://projects.chicagomaroon.com/hustling/2019/",
+  "timestamp": "1996-09-06T08:13-0400",
+  "dateline": "September 6, 1996",
+  "header": {
+    "headline": "Hustling 2019",
+    "subhead": "Join a passionate community of journalists, photographers, business people, digital specialists, and designers.",
+    "bylines": [{
+      "name": "The Chicago Maroon",
+      "link": "https://www.chicagomaroon.com"
+    }],
+    "image": "hustling_image.jpg"
+  },
+  "share": {
+    "fbook": {
+      "card_title": "Hustle The Maroon: How to Join UChicago's Student Newspaper",
+      "card_description": "Join a passionate community of journalists, photographers, business people, digital specialists, and designers."
+    },
+    "twitter": {
+      "card_title": "Hustle The Maroon: How to Join UChicago's Student Newspaper",
+      "share_tweet": "The independent student newspaper of The University of Chicago since 1892.",
+      "card_description": "Join a passionate community of journalists, photographers, business people, digital specialists, and designers.",
+      "author": "@chicagomaroon"
+    },
+    "image": {
+      "url": "https://projects.chicagomaroon.com/hustling/2018/images/sm_card-800.jpg",
+      "alt": "<Text>",
+      "type": "image/jpeg",
+      "width": "600",
+      "height": "300"
+    },
+    "keywords": "Maroon, Chicago, UChicago"
+  }
+}
