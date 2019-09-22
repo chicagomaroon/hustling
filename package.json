@@ -1,5 +1,5 @@
 {
-  "name": "hustling-2018",
+  "name": "hustling",
   "version": "1.0.0",
   "description": "A Maroon project.",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "test": "echo \"No tests\" && exit 1"
   },
   "author": {
-    "name": "euirim",
-    "email": "euirim@gmail.com"
+    "name": "firatciftci",
+    "email": "ciftcifirat1@gmail.com"
   },
   "license": "ISC",
   "devDependencies": {

@@ -1,4 +1,4 @@
-({
+{
   "headline": "Hustle The Maroon",
   "subhead": "Join a passionate community of journalists, photographers, business people, designers, and engineers.",
   "sections": [
@@ -124,7 +124,7 @@
     },
     {
       "type": "text",
-      "text": "Please also visit the [events section on our Facebook page](https://www.facebook.com/pg/chicagomaroon/events) to be up-to-date on any changes that might occur on the sessions.\n\nHave a conflict? Please e-mail <a href=\"mailto:editor@chicagomaroon.com\">editor@chicagomaroon.com</a>."
+      "text": "[Follow us on Facebook](https://www.facebook.com/pg/chicagomaroon) to be kept up-to-date.\n\nHave a conflict? Please e-mail <a href=\"mailto:editor@chicagomaroon.com\">editor@chicagomaroon.com</a>."
     }
   ]
 }
