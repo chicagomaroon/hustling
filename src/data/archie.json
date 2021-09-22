@@ -25,7 +25,7 @@
         {
           "hed": "Instructing Insurrections: How UChicago Can Avoid Creating the Next Ted Cruz",
           "bylines": ["Kelly Hui"],
-          "image": "insurrections.png",
+          "image": "insurrections.jpg",
           "link": "https://www.chicagomaroon.com/article/2021/1/24/instructing-insurrections-uchicago-avoid-creating/"
         },
         {
@@ -157,7 +157,7 @@
     },
     {
       "type": "text",
-      "text": "[Follow us on Facebook](https://www.facebook.com/pg/chicagomaroon) to be kept up-to-date.\n\nHave a conflict? Please e-mail <a href=\"mailto:editor@chicagomaroon.com\">editor@chicagomaroon.com</a>."
+      "text": "Follow us on [Facebook](https://www.facebook.com/chicagomaroon) and [Twitter](https://www.twitter.com/chicagomaroon) to be kept up-to-date.\n\n[Sign up to our newsletter](https://www.chicagomaroon.com/pages/newsletter/) for weekly updates, directly in your inbox.\n\nHave a conflict? Please e-mail <a href=\"mailto:editor@chicagomaroon.com\">editor@chicagomaroon.com</a>."
     }
   ]
 }
