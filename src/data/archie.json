@@ -143,17 +143,26 @@
     {
       "type": "event",
       "name": "Session 1",
-      "date": "TBD"
+      "date": "September 22",
+      "time": "1:00 pm",
+      "location": "Online",
+      "calendar_link": "https://www.facebook.com/events/3224572444443060/"
     },
     {
       "type": "event",
       "name": "Session 2",
-      "date": "TBD"
+      "date": "TBD",
+      "time": "",
+      "location": "Online",
+      "calendar_link": "#"
     },
     {
       "type": "event",
       "name": "Session 3",
-      "date": "TBD"
+      "date": "TBD",
+      "time": "",
+      "location": "Online",
+      "calendar_link": "#"
     },
     {
       "type": "text",
