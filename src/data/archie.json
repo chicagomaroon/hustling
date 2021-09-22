@@ -23,10 +23,10 @@
           "link": "https://www.chicagomaroon.com/article/2021/5/23/neurodivergence-atypical-school/"
         },
         {
-          "hed": "There is No “Decolonizing” UChicago",
+          "hed": "Instructing Insurrections: How UChicago Can Avoid Creating the Next Ted Cruz",
           "bylines": ["Kelly Hui"],
-          "image": "",
-          "link": "https://www.chicagomaroon.com/article/2020/11/22/decolonizing-uchicago/"
+          "image": "insurrections.png",
+          "link": "https://www.chicagomaroon.com/article/2021/1/24/instructing-insurrections-uchicago-avoid-creating/"
         },
         {
           "hed": "Academic Credit for Transfer Students Delayed for Months, Resulting in Uncertainty About Pre-Registration and Graduation Requirements",
@@ -91,7 +91,7 @@
         {
           "hed": "COVID-19 Special Issue",
           "bylines": ["Maroon Staff"],
-          "image": "",
+          "image": "covid_issue.png",
           "link": "https://projects.chicagomaroon.com/special/covid-issue/"
         }
       ]
