@@ -1,9 +1,8 @@
-# hustling-2019
+# hustling
 
-| Title | hustling-2019 |
-|-|-|
-| Developer    | Firat Ciftci |
-| Link | [https://projects.chicagomaroon.com/hustling/2019/](https://projects.chicagomaroon.com/hustling/2019/) |
+| Title     | hustling                                                                                               |
+| --------- | ------------------------------------------------------------------------------------------------------ |
+| Developer | Firat Ciftci                                                                                           |
+| Link      | [https://projects.chicagomaroon.com/hustling/2021/](https://projects.chicagomaroon.com/hustling/2021/) |
 
-
-©2019 The Chicago Maroon
+©2021 The Chicago Maroon
