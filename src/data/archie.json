@@ -143,26 +143,26 @@
     {
       "type": "event",
       "name": "Session 1",
-      "date": "September 22",
+      "date": "Thursday, September 23",
       "time": "1:00 pm",
       "location": "Online",
-      "calendar_link": "https://www.facebook.com/events/3224572444443060/"
+      "calendar_link": "https://www.facebook.com/events/3224572444443060"
     },
     {
       "type": "event",
       "name": "Session 2",
-      "date": "TBD",
-      "time": "",
-      "location": "Online",
-      "calendar_link": "#"
+      "date": "Thursday, September 30",
+      "time": "6:00 pm",
+      "location": "Maroon Office (Ida Noyes Hall Basement)",
+      "calendar_link": "https://facebook.com/events/178617094386729"
     },
     {
       "type": "event",
       "name": "Session 3",
-      "date": "TBD",
-      "time": "",
-      "location": "Online",
-      "calendar_link": "#"
+      "date": "October 7",
+      "time": "6:00 pm",
+      "location": "Maroon Office (Ida Noyes Hall Basement)",
+      "calendar_link": "https://www.facebook.com/events/552078079396268"
     },
     {
       "type": "text",
